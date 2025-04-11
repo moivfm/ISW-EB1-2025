@@ -1,0 +1,10 @@
+Pasos para hacer una limonada
+
+1. Inicio
+2. Exprimir limones
+3. Agregar azúcar y agua
+4. Mezclar
+5. ¿Está bien de sabor? (Sí/No)
+ 5.1 Si → Irse directo a Fin
+ 5.2 No → 5.3 Agregar más azúcar o limón → Fin
+6. Fin
